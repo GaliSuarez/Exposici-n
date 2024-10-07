@@ -2,8 +2,8 @@
 En este repositorio se encuentra la exposición del tema "Certificados de deposito e inversiones a plazos en los bancos"
 
 ---
-title: "Exposición"
-author: "Angel Sinai Reyes Ferreyra <br>
+Title: "Exposición"
+Author: "Angel Sinai Reyes Ferreyra <br>
          Yoselin Castañeda Ayllon <br>
          Dana Yuval Reyes González <br>
          Stephani Olvera Chávez <br>
